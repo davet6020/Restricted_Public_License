@@ -43,3 +43,6 @@ This software is provided "as is" without any warranties, expressed or implied. 
 
 ## 5. Modification of Terms  
 The Licensor reserves the right to update and modify this license. Continued use of the Software after modifications constitutes agreement to the revised terms.  
+
+## 6. Author Exemption Clause  
+Notwithstanding any other provision of this license, no restrictions, conditions, or limitations herein shall be interpreted or enforced in a manner that precludes the original author from using, modifying, distributing, or otherwise engaging with the software under any circumstances.  
