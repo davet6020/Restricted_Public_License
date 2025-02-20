@@ -4,6 +4,7 @@ A Source-Available License
 The Licensor grants the Licensee a non-exclusive, worldwide, non-transferable right to use, modify, and distribute the Software, provided the Licensee complies with all terms set forth in this agreement.
 2. Restrictions
 The Licensee is explicitly prohibited from using, modifying, distributing, or accessing the Software if they fall into any of the following categories:
+
 2.1 Governmental Use
 • Any government entity, agency, or representative thereof.
 2.2 Military and Weapons Use
@@ -24,10 +25,10 @@ The Licensee is explicitly prohibited from using, modifying, distributing, or ac
 • Any entity involved in the abuse, exploitation, or unethical treatment of animals, including but not limited to industrial animal farming, testing, or entertainment industries that mistreat animals.
 2.7 Quasi-Governmental Organizations
 • Any non-governmental organization that functions as or is closely associated with a government entity, often referred to as a pseudo-governmental or quasi-governmental organization.
-3. Compliance and Enforcement
+4. Compliance and Enforcement
 • If a Licensee is found to be in violation of these restrictions, their license is automatically terminated.
 • The Licensor reserves the right to pursue legal action against entities that violate this agreement.
-4. No Warranty
+5. No Warranty
 This software is provided "as is" without any warranties, expressed or implied. The Licensor shall not be liable for any damages resulting from the use of this software.
-5. Modification of Terms
+6. Modification of Terms
 The Licensor reserves the right to update and modify this license. Continued use of the Software after modifications constitutes agreement to the revised terms.
